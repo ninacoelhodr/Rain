@@ -1,0 +1,10 @@
+{
+    "testFiles": "**/*.feature",
+    "reporter": "cypress-mochawesome-reporter",
+    "videoCompression": 0,
+    "viewportWidth": 1280,
+    "viewportHeight": 720,
+    "defaultCommandTimeout": 10000,
+    "baseUrl": "https://rain.us/"
+  }
+  

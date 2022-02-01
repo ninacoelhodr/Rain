@@ -1,0 +1,10 @@
+{
+  "texts": {
+    "main": "Stay cool in Palm Springs"
+  },
+  "locators": {
+    "calendarArrow": "div[role='tooltip'] > div > button:nth-of-type(3)",
+    "calendarQuadrant": "div[role='tooltip'] > div > div:nth-of-type(2)",
+    "calendarAddButton": "div[role='tooltip'] > div > div > div:nth-of-type(1) button:nth-of-type(2)"
+  }
+}
