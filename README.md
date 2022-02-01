@@ -22,7 +22,6 @@ This automation requires [Node.js](https://nodejs.org/) to run.
 Install the dependencies
 
 ```sh
-$ cd cypress
 $ npm install 
 ```
 
